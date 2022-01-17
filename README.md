@@ -1,2 +1,3 @@
 # Tutorials
- ECON 514 Tutorials
+
+Here are notebooks that we look at in tutorials.
